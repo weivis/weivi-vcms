@@ -13,5 +13,5 @@ An open-source Video CMS, making it easier to build video communities.
 欢迎大家先点个 **Star** 关注进度，这对我来说是最大的动力。
 
 ## 💬 交流
-- 视频回顾: [此处放你的B站视频链接]
+- 视频回顾: https://www.bilibili.com/video/BV13BASzHExj
 - 技术交流群: 1130531420
