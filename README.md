@@ -8,10 +8,10 @@ An open-source Video CMS, making it easier to build video communities.
 ---
 
 ## 🚀 项目公告
-这个仓库是为了回应我在 B 站视频中提到的那个梦想。代码目前正在从我的私有库进行现代化的架构重构，我会分阶段逐步推送到这里。
+这个仓库是为了回应我在 B 站视频中提到的小时候的梦想。代码将会在这个仓库完成设计开发。
 
 欢迎大家先点个 **Star** 关注进度，这对我来说是最大的动力。
 
 ## 💬 交流
-- 视频回顾: https://www.bilibili.com/video/BV13BASzHExj
+- B站视频回顾: https://www.bilibili.com/video/BV13BASzHExj
 - 技术交流群: 1130531420
